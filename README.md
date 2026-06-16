@@ -30,7 +30,7 @@ top
 
 ## 2. ps
 
-![ps](images/ps.png)
+![ps](images/ps.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
@@ -49,7 +49,7 @@ ps aux
 
 ## 3. jobs
 
-![jobs](images/jobs.png)
+![jobs](images/jobs.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
@@ -69,7 +69,7 @@ jobs
 
 ## 4. kill
 
-![kill](images/kill.png)
+![kill](images/kill.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
