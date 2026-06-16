@@ -23,6 +23,9 @@
 ```bash
 top
 ```
+### 실행화면
+(bash에서는 실행되지 않아 JSLINUX라는 웹사이트를 이용했습니다.)
+
 <img width="1194" height="1031" alt="스크린샷 2026-06-16 162256" src="https://github.com/user-attachments/assets/e2f1e3f9-f070-46b5-b09c-f18287c990a9" />
 
 ---
@@ -42,6 +45,8 @@ top
 ```bash
 ps 
 ```
+### 실행화면
+
 <img width="1130" height="173" alt="ps png" src="https://github.com/user-attachments/assets/59605289-25fa-42d5-ba2b-249d83b2d13c" />
 
 ---
@@ -61,6 +66,8 @@ ps
 sleep 100 &
 jobs
 ```
+### 실행화면
+
 <img width="637" height="103" alt="jobs png" src="https://github.com/user-attachments/assets/3baff641-b9ea-4610-91ce-364de2af82b9" />
 
 ---
@@ -78,8 +85,9 @@ jobs
 ### 예시
 
 ```bash
-kill PID
+kill 581
 ```
+### 실행화면
 <img width="632" height="189" alt="kill png" src="https://github.com/user-attachments/assets/244dae04-d1bf-4b2e-bfa3-be47baeb2896" />
 
 ---
