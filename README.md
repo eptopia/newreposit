@@ -42,7 +42,7 @@ top
 ### 예시
 
 ```bash
-ps aux
+ps 
 ```
 
 ---
