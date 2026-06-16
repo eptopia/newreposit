@@ -1,4 +1,4 @@
-##https://github.com/eptopia/newreposit
+github 페이지 링크 : https://github.com/eptopia/newreposit
 
 # Linux 명령어 탐구 과제
 
