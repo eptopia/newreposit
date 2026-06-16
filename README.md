@@ -30,7 +30,6 @@ top
 
 ## 2. ps
 
-![ps](images/ps.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
@@ -44,12 +43,11 @@ top
 ```bash
 ps 
 ```
+<img width="1130" height="173" alt="ps png" src="https://github.com/user-attachments/assets/59605289-25fa-42d5-ba2b-249d83b2d13c" />
 
 ---
 
 ## 3. jobs
-
-![jobs](images/jobs.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
@@ -64,12 +62,12 @@ ps
 sleep 100 &
 jobs
 ```
+<img width="637" height="103" alt="jobs png" src="https://github.com/user-attachments/assets/3baff641-b9ea-4610-91ce-364de2af82b9" />
 
 ---
 
 ## 4. kill
 
-![kill](images/kill.png.png)
 
 | 항목 | 설명 |
 |---------|---------|
@@ -81,8 +79,9 @@ jobs
 ### 예시
 
 ```bash
-kill 1234
+kill PID
 ```
+<img width="632" height="189" alt="kill png" src="https://github.com/user-attachments/assets/244dae04-d1bf-4b2e-bfa3-be47baeb2896" />
 
 ---
 
